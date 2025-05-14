@@ -1,0 +1,5 @@
+/get
+/status/404
+/delay/1
+/hidden
+/anything

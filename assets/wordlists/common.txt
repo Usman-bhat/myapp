@@ -1,0 +1,9 @@
+admin
+login
+upload
+backup
+temp
+.env
+.git
+index.html
+robots.txt
